@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:5:5-7:65
+	android:value
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:7:9-62
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:6:9-54
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:8:5-10:35
+	android:value
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:9:9-66
+uses-feature#android.hardware.camera
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:12:19-57
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:14:22-67
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:9:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:16:22-62
+application
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:18:5-63:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bhargav\.android\build-cache\7be30d65cf05f8642a0bc3b5dca0f1d7c512e5f0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\bhargav\.android\build-cache\149f9d2ee1ea0eadcd6a4259df1d67afa9227e5a\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\bhargav\.android\build-cache\c140253d999b621e8798e9f5a435e868fd2f4b25\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bhargav\.android\build-cache\1270812be97c6fd1ff373438bd89277f1b1e554c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\d615c1f794c620e754848256f25ec1895eb1bbd0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\9ee204a1ba40a47c246278ad9624236218fe2422\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bhargav\.android\build-cache\d496f541f9de68789a9ec13e1a8f3cac3dc7f6d8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\bhargav\.android\build-cache\db643ec58ede725f9ed2e1e95eb11b41b25419c9\output\AndroidManifest.xml:11:5-20
+MERGED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:11:5-24:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\bhargav\.android\build-cache\7a0418cd50299392d6efc065bff34f34654b0950\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\bhargav\.android\build-cache\8b34e89117dafcb5babfef87f12ec22cee279177\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\bhargav\.android\build-cache\d6f4437e4bd323a740bf98f5c231a96c529d7b95\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\bhargav\.android\build-cache\a47b82a1996b76dfe07ab532ed8b7a7d2b6fb64e\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bhargav\.android\build-cache\10a1836057a488ef224f4f00f77a7eb4d17f809f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bhargav\.android\build-cache\ef1e910d188aadad0e190de46b724eef18355b50\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bhargav\.android\build-cache\261539a116bed43093c4b0e3d0e695e2387d8797\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bhargav\.android\build-cache\73574d921bd32bd28fc859ca5287939219b1eee2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bhargav\.android\build-cache\bee223b44d2e6214c5467025d567e2c39d661e77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bhargav\.android\build-cache\3e33e3b3f23dbf640873dcdfcfbdf645f970fbb9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:22:9-54
+	android:allowBackup
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.bhargav.paypes.Main7Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.example.bhargav.paypes.Main2Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.bhargav.paypes.Main3Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:27:19-48
+activity#com.example.bhargav.paypes.MainActivity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:28:9-50
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:28:19-47
+activity#com.example.bhargav.paypes.Main5Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:29:19-48
+activity#com.example.bhargav.paypes.Main6Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:30:19-48
+activity#com.example.bhargav.paypes.Main8Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:31:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:31:19-48
+activity#com.example.bhargav.paypes.BarcodeCaptureActivity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:32:19-57
+activity#com.example.bhargav.paypes.Main4Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:33:19-48
+activity#com.example.bhargav.paypes.Main9Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:36:13-57
+	android:theme
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:35:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:41:27-74
+meta-data#com.razorpay.ApiKey
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:45:9-47:55
+	android:value
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:46:13-47
+activity#com.example.bhargav.paypes.Main10Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:49:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:49:19-49
+activity#com.example.bhargav.paypes.Main11Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:50:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:50:19-49
+activity#com.example.bhargav.paypes.Main12Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:51:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:51:19-49
+activity#com.example.bhargav.paypes.Main13Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:52:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:52:19-49
+activity#com.example.bhargav.paypes.Main14Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:53:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:53:19-49
+activity#com.example.bhargav.paypes.Main15Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:54:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:54:19-49
+activity#com.example.bhargav.paypes.Main16Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:55:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:55:19-49
+activity#com.example.bhargav.paypes.Main17Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:56:9-52
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:56:19-49
+activity#com.example.bhargav.paypes.Main18Activity
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:57:19-49
+service#com.example.bhargav.paypes.FirebaseMessengingService
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:58:9-62:19
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:58:18-59
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:59:13-61:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml:60:25-75
+uses-sdk
+INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bhargav\.android\build-cache\7be30d65cf05f8642a0bc3b5dca0f1d7c512e5f0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\bhargav\.android\build-cache\149f9d2ee1ea0eadcd6a4259df1d67afa9227e5a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\bhargav\.android\build-cache\c140253d999b621e8798e9f5a435e868fd2f4b25\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bhargav\.android\build-cache\1270812be97c6fd1ff373438bd89277f1b1e554c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\d615c1f794c620e754848256f25ec1895eb1bbd0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\9ee204a1ba40a47c246278ad9624236218fe2422\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bhargav\.android\build-cache\44a813a22d049104c0ac9c3ab6e174db44df11ac\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bhargav\.android\build-cache\d496f541f9de68789a9ec13e1a8f3cac3dc7f6d8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\bhargav\.android\build-cache\db643ec58ede725f9ed2e1e95eb11b41b25419c9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\bhargav\.android\build-cache\bab59a7d6a7cebd03ca733fbe6920b7349f9274c\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\bhargav\.android\build-cache\bcefcd1aea0e5875ac101ebb217651cbe1e704c3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.yalantis:phoenix:1.2.3] C:\Users\bhargav\.android\build-cache\bafef90df53b9d828cf23d098a1b890699b8aced\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\bhargav\.android\build-cache\7a0418cd50299392d6efc065bff34f34654b0950\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\bhargav\.android\build-cache\8b34e89117dafcb5babfef87f12ec22cee279177\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\bhargav\.android\build-cache\d6f4437e4bd323a740bf98f5c231a96c529d7b95\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\bhargav\.android\build-cache\a47b82a1996b76dfe07ab532ed8b7a7d2b6fb64e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bhargav\.android\build-cache\10a1836057a488ef224f4f00f77a7eb4d17f809f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bhargav\.android\build-cache\ef1e910d188aadad0e190de46b724eef18355b50\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bhargav\.android\build-cache\261539a116bed43093c4b0e3d0e695e2387d8797\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bhargav\.android\build-cache\73574d921bd32bd28fc859ca5287939219b1eee2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bhargav\.android\build-cache\bee223b44d2e6214c5467025d567e2c39d661e77\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bhargav\.android\build-cache\3e33e3b3f23dbf640873dcdfcfbdf645f970fbb9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bhargav\Desktop\PayPes2\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\bhargav\.android\build-cache\ecdf92b6cbe043ed140eb5998b03e1ef7990fa0f\output\AndroidManifest.xml:19:19-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bhargav\.android\build-cache\1270812be97c6fd1ff373438bd89277f1b1e554c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\d615c1f794c620e754848256f25ec1895eb1bbd0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bhargav\.android\build-cache\9ee204a1ba40a47c246278ad9624236218fe2422\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\bhargav\.android\build-cache\44a813a22d049104c0ac9c3ab6e174db44df11ac\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\bhargav\.android\build-cache\d496f541f9de68789a9ec13e1a8f3cac3dc7f6d8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bhargav\.android\build-cache\10a1836057a488ef224f4f00f77a7eb4d17f809f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bhargav\.android\build-cache\ef1e910d188aadad0e190de46b724eef18355b50\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bhargav\.android\build-cache\261539a116bed43093c4b0e3d0e695e2387d8797\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bhargav\.android\build-cache\73574d921bd32bd28fc859ca5287939219b1eee2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bhargav\.android\build-cache\bee223b44d2e6214c5467025d567e2c39d661e77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bhargav\.android\build-cache\3e33e3b3f23dbf640873dcdfcfbdf645f970fbb9\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\bhargav\.android\build-cache\2f4ddd308d5abe19e8f71152f8bd89881e60bb47\output\AndroidManifest.xml:26:9-47
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:12:9-23:20
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:13:13-57
+intent-filter#android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:16:13-22:29
+data
+ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:19:17-21:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:20:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.3.1] C:\Users\bhargav\.android\build-cache\157c07f7857a970ea246b21551180f99da6cb313\output\AndroidManifest.xml:21:21-44
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\bhargav\.android\build-cache\7a0418cd50299392d6efc065bff34f34654b0950\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\bhargav\.android\build-cache\7a0418cd50299392d6efc065bff34f34654b0950\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\bhargav\.android\build-cache\7a0418cd50299392d6efc065bff34f34654b0950\output\AndroidManifest.xml:23:18-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\bhargav\.android\build-cache\c4bb9b8044e10ecd0364667a153c8429c62d2832\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\bhargav\.android\build-cache\09bbe450cd8238467075ff6db479aa543d1d5457\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\bhargav\.android\build-cache\cf582a5756edc6b8ed54f4f647bd7f0676f58f54\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\bhargav\.android\build-cache\bf4e096d588a094e6591fa69ddac3cc799040684\output\AndroidManifest.xml:6:79-143

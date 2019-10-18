@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock_outline.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\lock_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\lock.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\back_login.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\back_login.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\account_outline.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\account_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\account.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mobile.png",
+        "source": "C:\\Users\\bhargav\\Desktop\\PayPes2\\app\\src\\main\\res\\mipmap-mdpi\\mobile.png"
+    }
+]
